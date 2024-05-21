@@ -34,7 +34,7 @@ app.use(
   })
 );
 
-app.use("/", express.static("uploads"));  //upload the images
+app.use("/", express.static("uploads"));
 
 app.get("/test", (req, res) => {
   res.send("Hello World!");
