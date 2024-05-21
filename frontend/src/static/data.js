@@ -5,7 +5,7 @@ export const navItems = [
     url: "/",
   },
   {
-    title: "Best Selling",
+    title: "Highly Rated",
     url: "/best-selling",
   },
   {
@@ -26,8 +26,8 @@ export const navItems = [
 export const brandingData = [
   {
     id: 1,
-    title: "Free Shipping",
-    Description: "From all orders over Rs. 100",
+    title: "Sustainable fashion",
+    Description: "Reaching your doorstep easily!",
     icon: (
       <svg
         width="36"
@@ -76,8 +76,8 @@ export const brandingData = [
   },
   {
     id: 2,
-    title: "Daily Surprise Offers",
-    Description: "Save up to 25% off",
+    title: "Daily New Offers",
+    Description: "Keep up with the Trends",
     icon: (
       <svg
         width="32"
@@ -105,7 +105,7 @@ export const brandingData = [
   {
     id: 4,
     title: "Affortable Prices",
-    Description: "Get Factory direct price",
+    Description: "Save your Pocket",
     icon: (
       <svg
         width="32"
@@ -151,8 +151,8 @@ export const brandingData = [
   },
   {
     id: 5,
-    title: "Secure Payments",
-    Description: "100% protected payments",
+    title: "Trusted Trends",
+    Description: "Shop with Ease",
     icon: (
       <svg
         width="32"
